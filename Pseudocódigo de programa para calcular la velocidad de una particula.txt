@@ -1,0 +1,36 @@
+/*****************************************************
+
+PROGRAMA QUE CALCULA LA VELOCIDAD DE UNA PARTICULA
+Nombre: Nicolás Cano Botero
+
+MARZO 21/2021
+
+******************************************************/
+
+INICIO
+
+VARIABLES DE ENTRADA 
+
+Float tiempo, distancia;
+
+VARIABLES DE SALIDA
+
+float velocidad;
+
+ESCRIBA ("INGRESA LA DISTANCIA: ");
+LEA distancia;
+
+ESCRIBA ("INGRESA EL TIEMPO: ");
+LEA tiempo;
+
+velocidad = distancia / tiempo;
+
+ESCRIBA ("INGRESA LA DISTANCIA: ");
+ESCRIBA velocidad;
+
+
+
+
+
+
+
